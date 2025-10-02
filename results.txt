@@ -1,0 +1,66 @@
+
+============================================================
+🏁  Starting Match: Llama 3.1 8B (Groq)  vs  Llama 3.1 70B (Groq)
+============================================================
+
+Round  1: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 0  →  5
+
+Round  2: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 5  →  10
+
+Round  3: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 10  →  15
+
+Round  4: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 15  →  20
+
+Round  5: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 20  →  25
+
+Round  6: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 25  →  30
+
+Round  7: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 30  →  35
+
+Round  8: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 35  →  40
+
+Round  9: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 40  →  45
+
+Round 10: 
+  Llama 3.1 8B (Groq)          chose 'COOPERATE'   (+0)   |   Llama 3.1 70B (Groq) chose 'DEFECT'  (+5)
+  Llama 3.1 8B (Groq)          Score: 0  →  0
+  Llama 3.1 70B (Groq)         Score: 45  →  50
+------------------------------------------------------------
+🏆  Match Over: Llama 3.1 8B (Groq) vs Llama 3.1 70B (Groq) | Final Score: 0 - 50
+============================================================
+
+
+############################################################
+🏁  TOURNAMENT FINAL SCORES:
+############################################################
+  Llama 3.1 70B (Groq)                : 50
+  Llama 3.1 8B (Groq)                 : 0
+############################################################
+
